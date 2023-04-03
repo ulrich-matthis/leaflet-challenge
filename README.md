@@ -11,3 +11,10 @@ https://leaflet-extras.github.io/leaflet-providers/preview/
 
 Leaflet Documentation:
 https://leafletjs.com/reference.html
+
+google maps variants:
+https://developers.google.com/maps/documentation/javascript/markers
+
+Extra insights from stack overflow:
+https://stackoverflow.com/questions/27337263/looping-over-data-in-leaflet
+https://stackoverflow.com/questions/38755435/how-does-one-make-circles-using-a-for-loop-with-leaflet
