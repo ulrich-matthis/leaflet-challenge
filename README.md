@@ -3,6 +3,9 @@
 Marker Colors/Chloropleth:
 https://leafletjs.com/examples/choropleth/
 
+W3 schools HTML color wheel:
+https://www.w3schools.com/colors/colors_picker.asp
+
 JS Switch:
 https://www.tutorialspoint.com/can-we-have-a-return-statement-in-a-javascript-switch-statement
 
