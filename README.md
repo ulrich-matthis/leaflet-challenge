@@ -3,6 +3,9 @@
 Marker Colors/Chloropleth:
 https://leafletjs.com/examples/choropleth/
 
+W3 schools innerHTML:
+https://www.w3schools.com/jsref/prop_html_innerhtml.asp
+
 W3 schools HTML color wheel:
 https://www.w3schools.com/colors/colors_picker.asp
 
