@@ -24,3 +24,6 @@ https://developers.google.com/maps/documentation/javascript/markers
 Extra insights from stack overflow:
 https://stackoverflow.com/questions/27337263/looping-over-data-in-leaflet
 https://stackoverflow.com/questions/38755435/how-does-one-make-circles-using-a-for-loop-with-leaflet
+
+CSS info changes to add legend found at:
+https://codepen.io/haakseth/pen/KQbjdO
