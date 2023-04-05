@@ -1,4 +1,10 @@
 # leaflet-challenge
+For this weeks challenge, the task was to use a provided JSON file from USGS and access it using d3 to create a leaflet visualization
+using javascript, css and html. The resulting page has been made available using the github pages feature provided within github. The code is also
+constantly updating the visualization as the dataset only includes earthquakes that have been recorded/reported over the past seven days.
+
+*Due to time constraints only part 1 of this challenge has been completed and all files are directly available and not within a Part-1 folder.*
+
 
 Marker Colors/Chloropleth:
 https://leafletjs.com/examples/choropleth/
